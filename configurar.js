@@ -9,7 +9,7 @@ global.packname = '¹⁴³ ᴬˡᵉᵐᵃᵖ 🧸💜:\𝙹𝚎𝚊𝚗 𝙿𝚊
 global.author = '𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛'
 
 //coloque seu prefixo
-global.prefixo = ["."]
+global.prefixo = ["?"]
 
 //auto biografia do whatsapp 
 global.autobio = true //true = ativo, false = destivado
